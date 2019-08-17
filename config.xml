@@ -9,11 +9,11 @@
     <name>Aulex</name>
 
     <description>
-        Aplicación de prueba de la app móvil Aulex v2.1
+        Aplicación de prueba de la app móvil Aulex v2.2
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://ti.utxicotepec.edu.mx" email="omar.cravioto.p@gmail.com">
+        Omar Cravioto
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
