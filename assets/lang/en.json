@@ -1714,7 +1714,7 @@
     "core.settings.navigatorlanguage": "Navigator language",
     "core.settings.navigatoruseragent": "Navigator userAgent",
     "core.settings.networkstatus": "Internet connection status",
-    "core.settings.privacypolicy": "Privacy policy",
+    "core.settings.privacypolicy": "Version created by",
     "core.settings.pushid": "Push notifications ID",
     "core.settings.reportinbackground": "Report errors automatically",
     "core.settings.settings": "Settings",
