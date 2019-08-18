@@ -13,7 +13,7 @@
     </description>
 
     <author href="http://ti.utxicotepec.edu.mx" email="omar.cravioto.p@gmail.com">
-        OmarCravioto
+         Cravioto Team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">

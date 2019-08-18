@@ -1606,7 +1606,7 @@
     "core.settings.navigatorlanguage": "Lenguaje del navegador",
     "core.settings.navigatoruseragent": "Agente de usuario del navegador",
     "core.settings.networkstatus": "Estado de la conexión a internet",
-    "core.settings.privacypolicy": "Versión creada por.",
+    "core.settings.privacypolicy": "Políticas de privacidad",
     "core.settings.reportinbackground": "Informar de los errores automáticamente",
     "core.settings.settings": "Configuración",
     "core.settings.sites": "Sitios",
